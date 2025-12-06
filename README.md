@@ -1,1 +1,2 @@
 # Simulation-AP24110010445
+This program simulates the internal working of a singly linked list by showing how nodes are created, linked, traversed, and deleted. After every operation, the program displays each node’s simulated memory address, its data, and the pointer connection to the next node. This helps visualize how the linked list structure changes dynamically in memory. The simulation allows insertion at the end, deletion at any position, full traversal, and viewing of the current internal state of the list.
